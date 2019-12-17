@@ -1,0 +1,11 @@
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\obj\Debug\netcoreapp3.0\compiler.csprojAssemblyReference.cache
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\obj\Debug\netcoreapp3.0\compiler.AssemblyInfoInputs.cache
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\obj\Debug\netcoreapp3.0\compiler.AssemblyInfo.cs
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\bin\Debug\netcoreapp3.0\compiler.exe
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\bin\Debug\netcoreapp3.0\compiler.deps.json
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\bin\Debug\netcoreapp3.0\compiler.runtimeconfig.json
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\bin\Debug\netcoreapp3.0\compiler.runtimeconfig.dev.json
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\bin\Debug\netcoreapp3.0\compiler.dll
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\bin\Debug\netcoreapp3.0\compiler.pdb
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\obj\Debug\netcoreapp3.0\compiler.dll
+C:\Users\El_Amir Tech\source\repos\compiler\compiler\obj\Debug\netcoreapp3.0\compiler.pdb
